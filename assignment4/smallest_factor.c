@@ -1,18 +1,16 @@
 #include<stdio.h>
 int main()
 {
-    int i, x, d, e, f;
+    int i, x;
     printf("Enter a number ");
     scanf("%d", &x);
-    for(i=2; i<=x; i++)
+    i=2;
+    while (x%i!=0)
     {
-        if(x%i==0)
-        {
-            d=i%10;
-            
-            printf("%d\n", d);
-        }
+        i++;
     }
+    printf("The smallest factor is %d\n", i);
+    
     printf("This program is written by Abhijit Majumder\n");
     return 0;
 }
