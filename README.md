@@ -1,5 +1,4 @@
-# 4th-semester-Numerical-Analysis-Assignments-
-All 4th semester assignments of 4th semester Numerical Analysis 
-<br>
-Author: Abhijit Majumder
-
+I write those program as simple as possible. 
+I do not use comment much but I try to modify those
+If you have any query contact me... 
+I'll try to give a better version of any part of code.... 
